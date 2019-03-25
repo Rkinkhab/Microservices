@@ -1,0 +1,117 @@
+http://prescribe-service/prescribe/findByExpirationDate/2020-02-16 GET prescribe/findByExpirationDate/2020-02-16 200 OK
+http://member-service/member/findByExpirationDate/2020-02-16 GET member/findByExpirationDate/2020-02-16 200 OK
+http://drug-service/drug/findByExpirationDate/2020-02-16 GET drug/findByExpirationDate/2020-02-16 200 OK
+http://pharmacy-service/pharmacy/findByExpirationDate/2020-02-16 GET pharmacy/findByExpirationDate/2020-02-16 200 OK
+http://pharmacy-service/pharmacy/findByExpirationDate/2020-02-16 GET pharmacy/findByExpirationDate/2020-02-16 200 OK
+http://drug-service/drug/findByExpirationDate/2020-02-16 GET drug/findByExpirationDate/2020-02-16 200 OK
+http://prescribe-service/prescribe/findByExpirationDate/2020-02-16 GET prescribe/findByExpirationDate/2020-02-16 200 OK
+http://member-service/member/findByExpirationDate/2020-02-16 GET member/findByExpirationDate/2020-02-16 200 OK
+http://drug-service/drug/findByExpirationDate/2020-02-16 GET drug/findByExpirationDate/2020-02-16 200 OK
+http://member-service/member/findByExpirationDate/2020-02-16 GET member/findByExpirationDate/2020-02-16 200 OK
+http://pharmacy-service/pharmacy/findByExpirationDate/2020-02-16 GET pharmacy/findByExpirationDate/2020-02-16 200 OK
+http://prescribe-service/prescribe/findByExpirationDate/2020-02-16 GET prescribe/findByExpirationDate/2020-02-16 200 OK
+http://prescribe-service/prescribe/findByExpirationDate/2020-02-16 GET prescribe/findByExpirationDate/{date} 200 OK
+http://drug-service/drug/findByExpirationDate/2020-02-16 GET drug/findByExpirationDate/{date} 200 OK
+http://member-service/member/findByExpirationDate/2020-02-16 GET member/findByExpirationDate/{date} 200 OK
+http://pharmacy-service/pharmacy/findByExpirationDate/2020-02-16 GET pharmacy/findByExpirationDate/{date} 200 OK
+http://drug-service/drug/findByExpirationDate/2020-02-16 GET drug/findByExpirationDate/{date} 200 OK
+http://prescribe-service/prescribe/findByExpirationDate/2020-02-16 GET prescribe/findByExpirationDate/{date} 200 OK
+http://pharmacy-service/pharmacy/findByExpirationDate/2020-02-16 GET pharmacy/findByExpirationDate/{date} 200 OK
+http://member-service/member/findByExpirationDate/2020-02-16 GET member/findByExpirationDate/{date} 200 OK
+http://drug-service/drug/findByExpirationDate/2020-02-16 GET drug/findByExpirationDate/{date} 200 OK
+http://prescribe-service/prescribe/findByExpirationDate/2020-02-16 GET prescribe/findByExpirationDate/{date} 200 OK
+http://pharmacy-service/pharmacy/findByExpirationDate/2020-02-16 GET pharmacy/findByExpirationDate/{date} 200 OK
+http://member-service/member/findByExpirationDate/2020-02-16 GET member/findByExpirationDate/{date} 200 OK
+http://member-service/member/findByExpirationDate/2020-02-16 GET member/findByExpirationDate/{date} 200 OK
+http://prescribe-service/prescribe/findByExpirationDate/2020-02-16 GET prescribe/findByExpirationDate/{date} 200 OK
+http://pharmacy-service/pharmacy/findByExpirationDate/2020-02-16 GET pharmacy/findByExpirationDate/{date} 200 OK
+http://drug-service/drug/findByExpirationDate/2020-02-16 GET drug/findByExpirationDate/{date} 200 OK
+http://prescribe-service/prescribe/findByExpirationDate/2020-02-13 GET prescribe/findByExpirationDate/{date} 200 OK
+http://member-service/member/findByExpirationDate/2020-02-13	response :: 404 null
+http://pharmacy-service/pharmacy/findByExpirationDate/2020-02-13	response :: 404 null
+http://drug-service/drug/findByExpirationDate/2020-02-13	response :: 404 null
+http://prescribe-service/prescribe/findByExpirationDate/2020-02-13 GET prescribe/findByExpirationDate/{date} 200 OK
+http://drug-service/drug/findByExpirationDate/2020-02-14	response :: 404 null
+http://pharmacy-service/pharmacy/findByExpirationDate/2020-02-14	response :: 404 null
+http://member-service/member/findByExpirationDate/2020-02-14	response :: 404 null
+http://prescribe-service/prescribe/findByExpirationDate/2020-02-14 GET prescribe/findByExpirationDate/{date} 200 OK
+http://drug-service/drug/findByExpirationDate/2020-02-14 GET drug/findByExpirationDate/{date} 200 OK
+http://prescribe-service/prescribe/findByExpirationDate/2020-02-14 GET prescribe/findByExpirationDate/{date} 200 OK
+http://member-service/member/findByExpirationDate/2020-02-14 GET member/findByExpirationDate/{date} 200 OK
+http://pharmacy-service/pharmacy/findByExpirationDate/2020-02-14 GET pharmacy/findByExpirationDate/{date} 200 OK
+http://member-service/member/findByExpirationDate/2020-02-14	response :: No instances available for member-service
+http://pharmacy-service/pharmacy/findByExpirationDate/2020-02-14	response :: No instances available for pharmacy-service
+http://prescribe-service/prescribe/findByExpirationDate/2020-02-14	response :: No instances available for prescribe-service
+http://drug-service/drug/findByExpirationDate/2020-02-14	response :: No instances available for drug-service
+http://drug-service/drug/findByExpirationDate/2020-02-14	response :: No instances available for drug-service
+http://pharmacy-service/pharmacy/findByExpirationDate/2020-02-14	response :: No instances available for pharmacy-service
+http://member-service/member/findByExpirationDate/2020-02-14	response :: No instances available for member-service
+http://prescribe-service/prescribe/findByExpirationDate/2020-02-14	response :: No instances available for prescribe-service
+http://member-service/member/findByExpirationDate/2020-02-14	response :: No instances available for member-service
+http://prescribe-service/prescribe/findByExpirationDate/2020-02-14	response :: No instances available for prescribe-service
+http://pharmacy-service/pharmacy/findByExpirationDate/2020-02-14	response :: No instances available for pharmacy-service
+http://drug-service/drug/findByExpirationDate/2020-02-14	response :: 404 null
+http://drug-service/drug/findByExpirationDate/2020-02-14	response :: 404 null
+http://prescribe-service/prescribe/findByExpirationDate/2020-02-14 GET prescribe/findByExpirationDate/{date} 200 OK
+http://pharmacy-service/pharmacy/findByExpirationDate/2020-02-14	response :: 404 null
+http://member-service/member/findByExpirationDate/2020-02-14	response :: 404 null
+http://pharmacy-service/pharmacy/findByExpirationDate/2020-02-14	response :: 404 null
+http://member-service/member/findByExpirationDate/2020-02-14	response :: 404 null
+http://drug-service/drug/findByExpirationDate/2020-02-14	response :: 404 null
+http://prescribe-service/prescribe/findByExpirationDate/2020-02-14 GET prescribe/findByExpirationDate/{date} 200 OK
+http://prescribe-service/prescribe/findByExpirationDate/2020-02-14	response :: 404 null
+http://member-service/member/findByExpirationDate/2020-02-14	response :: 404 null
+http://drug-service/drug/findByExpirationDate/2020-02-14	response :: 404 null
+http://pharmacy-service/pharmacy/findByExpirationDate/2020-02-14	response :: 404 null
+http://member-service/member/findByExpirationDate/2020-02-16 GET member/findByExpirationDate/{date} 200 OK
+http://pharmacy-service/pharmacy/findByExpirationDate/2020-02-16 GET pharmacy/findByExpirationDate/{date} 200 OK
+http://drug-service/drug/findByExpirationDate/2020-02-16 GET drug/findByExpirationDate/{date} 200 OK
+http://prescribe-service/prescribe/findByExpirationDate/2020-02-16 GET prescribe/findByExpirationDate/{date} 200 OK
+http://prescribe-service/prescribe/findByExpirationDate/2020-02-17 GET prescribe/findByExpirationDate/{date} 200 OK
+http://pharmacy-service/pharmacy/findByExpirationDate/2020-02-17 GET pharmacy/findByExpirationDate/{date} 200 OK
+http://drug-service/drug/findByExpirationDate/2020-02-17 GET drug/findByExpirationDate/{date} 200 OK
+http://member-service/member/findByExpirationDate/2020-02-17 GET member/findByExpirationDate/{date} 200 OK
+http://member-service/member/findByExpirationDate/2020-02-18 GET member/findByExpirationDate/{date} 200 OK
+http://drug-service/drug/findByExpirationDate/2020-02-18 GET drug/findByExpirationDate/{date} 200 OK
+http://prescribe-service/prescribe/findByExpirationDate/2020-02-18 GET prescribe/findByExpirationDate/{date} 200 OK
+http://pharmacy-service/pharmacy/findByExpirationDate/2020-02-18 GET pharmacy/findByExpirationDate/{date} 200 OK
+http://pharmacy-service/pharmacy/findByExpirationDate/2020-02-19 GET pharmacy/findByExpirationDate/{date} 200 OK
+http://drug-service/drug/findByExpirationDate/2020-02-19 GET drug/findByExpirationDate/{date} 200 OK
+http://member-service/member/findByExpirationDate/2020-02-19 GET member/findByExpirationDate/{date} 200 OK
+http://prescribe-service/prescribe/findByExpirationDate/2020-02-19 GET prescribe/findByExpirationDate/{date} 200 OK
+http://member-service/member/findByExpirationDate/2020-02-20 GET member/findByExpirationDate/{date} 200 OK
+http://drug-service/drug/findByExpirationDate/2020-02-20 GET drug/findByExpirationDate/{date} 200 OK
+http://prescribe-service/prescribe/findByExpirationDate/2020-02-20 GET prescribe/findByExpirationDate/{date} 200 OK
+http://pharmacy-service/pharmacy/findByExpirationDate/2020-02-20 GET pharmacy/findByExpirationDate/{date} 200 OK
+http://drug-service/drug/findByExpirationDate/2020-02-16 GET drug/findByExpirationDate/{date} 200 OK
+http://member-service/member/findByExpirationDate/2020-02-16 GET member/findByExpirationDate/{date} 200 OK
+http://pharmacy-service/pharmacy/findByExpirationDate/2020-02-16 GET pharmacy/findByExpirationDate/{date} 200 OK
+http://prescribe-service/prescribe/findByExpirationDate/2020-02-16 GET prescribe/findByExpirationDate/{date} 200 OK
+http://pharmacy-service/pharmacy/findByExpirationDate/2020-02-14	response :: 404 null
+http://member-service/member/findByExpirationDate/2020-02-14	response :: 404 null
+http://prescribe-service/prescribe/findByExpirationDate/2020-02-14	response :: 404 null
+http://drug-service/drug/findByExpirationDate/2020-02-14	response :: 404 null
+http://drug-service/drug/findByExpirationDate/2020-02-14	response :: 404 null
+http://member-service/member/findByExpirationDate/2020-02-14	response :: 404 null
+http://pharmacy-service/pharmacy/findByExpirationDate/2020-02-14	response :: 404 null
+http://prescribe-service/prescribe/findByExpirationDate/2020-02-14	response :: 404 null
+http://pharmacy-service/pharmacy/findByExpirationDate/2020-02-15	response :: 404 null
+http://member-service/member/findByExpirationDate/2020-02-15	response :: 404 null
+http://prescribe-service/prescribe/findByExpirationDate/2020-02-15	response :: 404 null
+http://drug-service/drug/findByExpirationDate/2020-02-15	response :: 404 null
+http://drug-service/drug/findByExpirationDate/2020-02-14	response :: 404 null
+http://pharmacy-service/pharmacy/findByExpirationDate/2020-02-14	response :: 404 null
+http://member-service/member/findByExpirationDate/2020-02-14	response :: 404 null
+http://prescribe-service/prescribe/findByExpirationDate/2020-02-14	response :: 404 null
+http://prescribe-service/prescribe/findByExpirationDate/2019-02-18	response :: 404 null
+http://pharmacy-service/pharmacy/findByExpirationDate/2019-02-18	response :: 404 null
+http://drug-service/drug/findByExpirationDate/2019-02-18	response :: 404 null
+http://member-service/member/findByExpirationDate/2019-02-18	response :: 404 null
+http://drug-service/drug/findByExpirationDate/2019-02-18	response :: 404 null
+http://prescribe-service/prescribe/findByExpirationDate/2019-02-18	response :: 404 null
+http://pharmacy-service/pharmacy/findByExpirationDate/2019-02-18	response :: 404 null
+http://member-service/member/findByExpirationDate/2019-02-18	response :: 404 null
+http://drug-service/drug/findByExpirationDate/2020-02-18 GET drug/findByExpirationDate/{date} 200 OK
+http://prescribe-service/prescribe/findByExpirationDate/2020-02-18 GET prescribe/findByExpirationDate/{date} 200 OK
+http://pharmacy-service/pharmacy/findByExpirationDate/2020-02-18 GET pharmacy/findByExpirationDate/{date} 200 OK
+http://member-service/member/findByExpirationDate/2020-02-18 GET member/findByExpirationDate/{date} 200 OK
