@@ -8,3 +8,4 @@ Microservices POC by using spring boot and netflix open source spring libraries 
 6. Gateway-service
 7. Elasticsearch, Kibana, Logstash for pushing the logs such as response codes from different service when make Rest call 
 8. created dash board in kibana with logs to see internal details such as how many requests were success and how many were failed.
+https://github.com/Rkinkhab/Microservices/blob/master/image.png
